@@ -1,6 +1,6 @@
 # Parcial 2
 
-Este programa es un simulador de las operaciones de una bodega utilizando coleciones, clases y elementos de java swing
+## Este programa es un simulador de las operaciones de una bodega utilizando coleciones, clases y elementos de java swing
 
 Al inciar aparece un menu de login
 
